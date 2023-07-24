@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+header,footer{
+    background-color: rgb(66, 67, 67);
+    color: white;
+    text-align: center;
+    padding: 20px;
+} 
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+} 
+.column1{
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+}
+.column2{
+
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+}
+.column3{
+
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+}
